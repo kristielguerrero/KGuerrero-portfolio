@@ -56,3 +56,12 @@ h2 {
   padding-right: 35px;
   flex-wrap: wrap;
 }
+
+#explore-mars,
+#planner,
+#horiseon,
+#community-sidekicks,
+#read-me {
+  width: 350px;
+  height: 300px;
+}
