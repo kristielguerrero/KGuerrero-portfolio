@@ -4,7 +4,7 @@ function Contact() {
   return (
     <>
       <section>
-        <h2 id="contact" style="font-size: 50px;">
+        <h2 id="contact" className="aboutMe">
           Contact
         </h2>
 
@@ -42,3 +42,5 @@ function Contact() {
     </>
   );
 }
+
+export default Contact;
