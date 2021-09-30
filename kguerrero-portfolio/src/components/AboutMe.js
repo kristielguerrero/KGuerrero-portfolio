@@ -7,7 +7,7 @@ function AboutMe() {
         <img
           src="./assets/aboutMePic.jpg"
           className="float-left"
-          alt="about-me-picture-of-Kristiel"
+          alt="pic-of-Kristiel"
         />
         <h2 id="aboutMe">About</h2>
         <p>
