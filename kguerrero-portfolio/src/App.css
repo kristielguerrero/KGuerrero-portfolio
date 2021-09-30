@@ -65,3 +65,29 @@ h2 {
   width: 350px;
   height: 300px;
 }
+
+#contact-icon {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  column-gap: 10px;
+}
+
+p,
+.col {
+  font-size: 25px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 60px;
+  font-family: "Raleway", sans-serif;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  display: block;
+  margin-block-start: 5px;
+  margin-block-end: 5px;
+}
