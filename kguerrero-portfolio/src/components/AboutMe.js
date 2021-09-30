@@ -9,7 +9,7 @@ function AboutMe() {
           className="float-left"
           alt="about-me-picture-of-Kristiel"
         />
-        <h2 id="aboutMe">About Me</h2>
+        <h2 id="aboutMe">About</h2>
         <p>
           - Tarleton Alumni with a Bachelors in Science of Interdiscliplinary
           Studies with Bilingual Supplement.
@@ -18,10 +18,9 @@ function AboutMe() {
           - Dual Language teacher in Fort Worth ISD
           <br />
           <br />
-          - Future Full-Stack Web Developer graduate from Southern Methodist
-          University
+          - Future Full-Stack Web Developer from Southern Methodist University
           <br />
-          <br />- Music enthusiast, avid hiker, book-lover
+          <br />- Avid hiker, music enthusiast, book-lover
         </p>
       </section>
     </>
