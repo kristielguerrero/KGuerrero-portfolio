@@ -91,3 +91,11 @@ p,
   margin-block-start: 5px;
   margin-block-end: 5px;
 }
+
+footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 5px;
+}
