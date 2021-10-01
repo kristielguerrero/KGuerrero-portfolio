@@ -10,7 +10,7 @@ function Resume() {
 
         <body>
           <iframe
-            src="https://docs.google.com/document/d/e/2PACX-1vS-WxMc31GOBOy0jWMRgr6SWSzDJS9JGTZZNHfUTW73QExdFzwcLzLh0oaPBGtAB2yE9jEPsKysi57y/pub"
+            src="https://docs.google.com/document/d/e/2PACX-1vQqEDdAKxxjwYeyPvCqtKK40KM63Y74iThWWZ07S_Z40ub3VnD0GaXDKoUlz0Jv2BdJMtF9pO4axp7J/pub?embedded=true"
             width="100%"
             height="500px"
           ></iframe>
